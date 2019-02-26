@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+<style>
+    
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+    
+   
+     .jumbotron {
+      margin-bottom: 0px;
+    }
+   
+   
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+    
+    
+    address { 
+  display: block;
+  font-style: italic;
+  background-image: url("C:\Users\rrejeti\Desktop\images.jpg");
+  background-color: #cccccc;
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+} 
+  </style>
